@@ -55,7 +55,7 @@ Here are some of the projects I've been working on:
 
 - ⚡ Fun fact:
 I'm not sure if you'd consider this fun, but in addition to being a process engineer and an AI enthusiast, I've also authored and published a science fiction novel.
-In it, I delve into the potential risks associated with AI—a topic that might strike you with its irony. You can find my book available for purchase here.:
+In it, I delve into the potential risks associated with AI—a topic that might strike you with its irony. You can find my book available for purchase here:
 
   -  [Azrahel si Penjejak Kubur](https://thepatriots.store/shop/mahakarya/azrahel-si-penjejak-kubur/)
 
