@@ -17,7 +17,7 @@ Here's a little bit about me:
 Here are some of the projects I've been working on:
 ### Building my own AI
 - [Megat Nano-GPT](https://github.com/maercaestro/nanoGPT-megat): Nano-GPT that I build myself and configured to train data based on my works as malay novelist.
-- [Megat Tokenizer](https://github.com/maercaestro/megat-tokenizer): A tokenizer that I build myself based BPE Algorithm by Open AI.
+- [Megat Tokenizer](https://github.com/maercaestro/megat-tokenizer): A tokenizer that I build myself based on BPE Algorithm by Open AI.
 - [Transformer from Scratch](https://github.com/maercaestro/transformer-scratch): My first attempt to build my first transformer from scratch
 
 ### Building my own engineering solutions
