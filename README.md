@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm ***Abu Huzaifah Bidin***, a ***Process Engineer*** and an  ***AI enthusiast*** who's passionate about data and artificial intelligence. 
 Here's a little bit about me:
 
-![LogoSendiri](https://github.com/maercaestro/megatpengrobinson/blob/20262e2b048b7153893110cff91710182e190b6a/Logosendiriw.png)
+![LogoSendiri](https://github.com/maercaestro/nanoGPT-megat/blob/bf1554aecc8008e54977d16878d54f7739bb99dd/logowhiteback.png)
 
 ## About Me
 -  💼 I'm currently researching/working on building my own AI bot. A bot that I call as MEGAT. It is a combination of simple automation and a small AI model
