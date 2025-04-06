@@ -5,7 +5,7 @@ Here's a little bit about me:
 
 
 
-![LogoSendiri]([https://github.com/maercaestro/nanoGPT-megat/blob/a3c2c0baca6300a67d6df60cbf129226ea790032/logowhiteback.png](https://github.com/maercaestro/megat-stde/blob/b235c6d829236966a07fcf4aa7d604a510d52640/logo%20personal.png])
+![LogoSendiri]([(https://github.com/maercaestro/megat-stde/blob/b235c6d829236966a07fcf4aa7d604a510d52640/logo%20personal.png])
 
 ## About Me
 -  💼 I'm currently researching/working on building my own AI bot. A bot that I call as MEGAT. It is a combination of simple automation and a small AI model
