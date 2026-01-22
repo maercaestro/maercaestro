@@ -29,6 +29,8 @@ Here are some of the projects I've been working on:
 
 
 ## Skills
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maercaestro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 - Programming Languages:
   1. Python
   2. HTML & CSS
