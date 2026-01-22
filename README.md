@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm ***Abu Huzaifah Bidin***, a ***Process Enginee
 Here's a little bit about me:
 
 
-![Logo Sendiri](https://github.com/maercaestro/megat-stde/blob/b235c6d829236966a07fcf4aa7d604a510d52640/logo%20personal.png)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=maercaestro)](https://git.io/streak-stats)
 
 ## About Me
 -  💼 I'm currently researching/working on building my own AI bot. A bot that I call as MEGAT. It is a combination of simple automation and a small AI model
