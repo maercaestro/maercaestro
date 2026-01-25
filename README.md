@@ -1,5 +1,7 @@
 # Abu Huzaifah | AI Builder, ML Researcher & SaaS Founder 
 
+![Isometric View](https://github-readme-isometric-calendar.vercel.app/api?username=maercaestro&bg=0d1117&fg=39d353)
+
 
 Welcome to my digital lab. I am a **Machine Learning Researcher** and **SaaS Founder** with a deep foundation in engineering. After 13+ years optimizing complex industrial systems as a Senior Process Engineer, I am now focused on pushing the boundaries of artificial intelligence—specifically in advanced architectures, time-series forecasting, and voice AI.
 
