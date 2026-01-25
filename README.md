@@ -1,71 +1,62 @@
-# Abu Huzaifah, Process Engineer and AI Enthusiast! 👋
-
-Welcome to my GitHub profile! I'm ***Abu Huzaifah Bidin***, a ***Process Engineer*** and an  ***AI enthusiast*** who's passionate about data and artificial intelligence. 
-Here's a little bit about me:
-
+# Abu Huzaifah | AI Builder, ML Researcher & SaaS Founder 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=maercaestro)](https://git.io/streak-stats)
 
-## About Me
--  💼 I'm currently researching/working on building my own AI bot. A bot that I call as MEGAT. It is a combination of simple automation and a small AI model
-   that utilize transformer based neural network architecture.
-- :atom: Artificial Intelligence intrigued me. I want to crack the blackbox of AI (ChatGPT, LLama) and develop my own and even improve upon it
-- 🌱 I'm constantly learning and exploring new technologies. Slowly building my repository, combining process engineering and technology. 
-- 💡 Solving problems are one of my passion. Doing something straightforward is something that I don't want to do.
-- 📚 Always open for collaboration!!
+Welcome to my digital lab. I am a **Machine Learning Researcher** and **SaaS Founder** with a deep foundation in engineering. After 13+ years optimizing complex industrial systems as a Senior Process Engineer, I am now focused on pushing the boundaries of artificial intelligence—specifically in advanced architectures, time-series forecasting, and voice AI.
 
-## Projects
-Here are some of the projects I've been working on:
-### Building my own AI
-- [Megat Nano-GPT](https://github.com/maercaestro/nanoGPT-megat): Nano-GPT that I build myself and configured to train data based on my works as malay novelist.
-- [Megat Tokenizer](https://github.com/maercaestro/megat-tokenizer): A tokenizer that I build myself based on BPE Algorithm by Open AI.
-- [Transformer from Scratch](https://github.com/maercaestro/transformer-scratch): My first attempt to build my first transformer from scratch
+I believe in building code-first infrastructure from the ground up and solving high-value problems at the intersection of heavy industry and machine learning.
 
-### Building my own engineering solutions
-- [Megat Peng Robinson](https://github.com/maercaestro/megatpengrobinson): Utilizing Peng Robinson Equation of State and NIST Database API, it's just a simple
-  streamlit web app showcasing Peng Robinson Equation of State
-- [Megat P&ID Extractor](https://github.com/maercaestro/pidextractor): Simple web app that are able to extract required information from a P&ID.
-- [Refutas Library](https://github.com/maercaestro/RefutasLibrary): A python library for calculating viscosity of a mixture by using Refutas Equation.
+### 🔭 Current Focus
+- 🧠 **Advanced ML Research:** Investigating non-transformer architectures, specifically **Energy-Based Liquid Neural Networks (EB-LNNs)** and Geometric Deep Learning for dynamic system modeling.
+- 🎙️ **Voice & Generative AI:** Machine Learning Researcher specializing in TTS (Text-to-Speech) and end-to-end machine translation.
+- 💡 **SaaS Development:** Scaling B2B/B2C financial tools and AI-driven fact-checking platforms.
 
+---
 
-## Skills
+## 🚀 Featured Engineering & AI Repositories
+
+### 🔬 Advanced AI & Research
+- **[EB-LNN: Energy-Based Liquid Neural Networks](https://github.com/maercaestro/eb-lnn)** *(Flagship Research)* A novel implementation combining Energy-Based Models with Liquid Time-Constant networks, designed for adaptive time-series forecasting in non-stationary environments.
+- **[Furnace Commander](https://github.com/maercaestro/furnace-commander)** AI-enhanced industrial control system predicting and optimizing excess oxygen in industrial furnaces. Subject of an invited manuscript for the *Journal of Computational and Cognitive Engineering* (Scopus Q1).
+
+### 🛠️ SaaS & Production Applications
+- **[Aliran Tunai (Flow)](https://github.com/maercaestro/aliran-tunai)** **🏆 Winner: PETRONAS Startup Hackathon (2025).** A B2B/B2C financial logger and invoicing SaaS built for WhatsApp integration, scaling from contractor management to personal finance.
+- **[TruthQuest](https://github.com/maercaestro/truth-quest)** An automated video fact-checking tool leveraging AI transcription and LLM-based logical analysis to verify video content at scale.
+- **[Teroka Transformer](https://github.com/maercaestro/teroka-transformer)** The codebase and content platform for my comprehensive AI literacy initiative, breaking down complex AI architectures for the public.
+
+---
+
+## 💻 Tech Stack & Infrastructure
+
+I prefer code-first, scalable infrastructure over low-code platforms.
+
+**AI & Data Science:** `PyTorch` `TensorFlow` `Scikit-learn` `XGBoost` `Pandas` `Jupyter`
+
+**Full-Stack Development:** `Python` `React` `Tailwind CSS` `HTML/CSS` `C`
+
+**Cloud & Infrastructure:** `AWS` `Azure` `Docker` `GitHub Actions` `Vercel`
+
+**Databases & BaaS:** `MongoDB` `Supabase` `PostgreSQL`
+
+---
+
+## 📚 Publications & Thought Leadership
+
+I am a passionate writer, bridging the gap between deep tech, philosophy, and storytelling.
+
+- 🌐 **Research Blog:** [ahead-huzaifah.com](https://ahead-huzaifah.com) - Deep dives into Geometric Deep Learning, LNNs, and engineering.
+- 📖 **Tech Book:** *AI untuk Pemula* - Making the fundamentals of Artificial Intelligence accessible to everyone.
+- 📝 **Articles:** Read my latest thoughts on AI philosophy and tech on [Medium](https://medium.com/@maercaestro).
+- 🎙️ **Keynote Speaker:** Creator of *"Mahasiswa vs Artificial Intelligence"* presentation for the University of Malaya.
+- 👽 **Sci-Fi Novel:** *[Azrahel si Penjejak Kubur](https://thepatriots.store/shop/mahakarya/azrahel-si-penjejak-kubur/)* - A published novel exploring the existential risks of AI and advanced technology.
+
+---
+
+## 📫 Get In Touch
+
+Whether you want to discuss Liquid Neural Networks, scaling SaaS infrastructure, or the philosophy of anarchism, I'm always open to connecting with fellow builders and researchers.
+
+- 🌐 **Website:** [ahead-huzaifah.com](https://ahead-huzaifah.com)
+- 🔗 **Links:** [Linktree](https://linktr.ee/maercaestro)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maercaestro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-- Programming Languages:
-  1. Python
-  2. HTML & CSS
-  3. C (Beginner through Harvard's CS50)
-- Frameworks & Libraries:
-  1. Pandas
-  2. Scikit-learn
-  3. Torch
-  4. Tensorflow
-  5. Xgboost
-  6. PyMuPDF
-  7. PyPDF
-  8. Matplotlib
-  9. Seaborn
-  
-- Tools & Technologies: 
-1. Streamlit
-2. Tkinter
-
-
-## Get in Touch
-- 📫 How to reach me:
-  -  [Webpage](https://maercaestro.github.io/)
-  -  [Social](https://linktr.ee/maercaestro) 
-
-- ⚡ Fun fact:
-I'm not sure if you'd consider this fun, but in addition to being a process engineer and an AI enthusiast, I've also authored and published a science fiction novel.
-In it, I delve into the potential risks associated with AI—a topic that might strike you with its irony. You can find my book available for purchase here:
-
-  -  [Azrahel si Penjejak Kubur](https://thepatriots.store/shop/mahakarya/azrahel-si-penjejak-kubur/)
-
-Feel free to explore my repositories and don't hesitate to reach out if you have any questions or just want to chat! Let's connect and create something awesome together! 🚀
-
-
-<!---
-maercaestro/maercaestro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
