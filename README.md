@@ -1,6 +1,5 @@
 # Abu Huzaifah | AI Builder, ML Researcher & SaaS Founder 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=maercaestro)](https://git.io/streak-stats)
 
 Welcome to my digital lab. I am a **Machine Learning Researcher** and **SaaS Founder** with a deep foundation in engineering. After 13+ years optimizing complex industrial systems as a Senior Process Engineer, I am now focused on pushing the boundaries of artificial intelligence—specifically in advanced architectures, time-series forecasting, and voice AI.
 
