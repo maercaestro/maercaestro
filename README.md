@@ -1,8 +1,8 @@
-# Abu Huzaifah | AI Builder, ML Researcher & SaaS Founder 
+# Abu Huzaifah | ML Researcher and Founder
 
 
 
-Welcome to my digital lab. I am a **Machine Learning Researcher** and **SaaS Founder** with a deep foundation in engineering. After 13+ years optimizing complex industrial systems as a Senior Process Engineer, I am now focused on pushing the boundaries of artificial intelligence—specifically in advanced architectures, time-series forecasting, and voice AI.
+Welcome to my digital lab. I am a **Machine Learning Researcher** and **Founder** with a deep foundation in engineering. After 13+ years optimizing complex industrial systems as a Senior Process Engineer, I am now focused on pushing the boundaries of artificial intelligence—specifically in advanced architectures, time-series forecasting, and voice AI.
 
 I believe in building code-first infrastructure from the ground up and solving high-value problems at the intersection of heavy industry and machine learning.
 
